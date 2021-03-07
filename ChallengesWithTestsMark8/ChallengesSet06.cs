@@ -7,12 +7,34 @@ namespace ChallengesWithTestsMark8
     {
         public bool CollectionContainsWord(IEnumerable<string> words, string word, bool ignoreCase)
         {
-            throw new NotImplementedException();
+            if (words == null) { return false; }
+            if (ignoreCase == false)
+            {
+                foreach (string element in words)
+                {
+                    if (element == null) { continue; }
+                    else if (element == word) { return true; }
+                }
+            }
+            else if (ignoreCase == true)
+            {
+                foreach (string element in words)
+                {
+                    if (element == null) { continue; }
+                    else if (element.ToLower() == word.ToLower()) { return true; }
+                }
+            }
+            return false;
         }
 
         public bool IsPrimeNumber(int num)
         {
-            throw new NotImplementedException();
+            if (num <= 1) { return false; }
+            for (int i = 2; i <= num / 2; i++)
+            {
+                if (num % i == 0) { return false; }
+            }
+            return true;
         }
 
         public int IndexOfLastUniqueLetter(string str)
