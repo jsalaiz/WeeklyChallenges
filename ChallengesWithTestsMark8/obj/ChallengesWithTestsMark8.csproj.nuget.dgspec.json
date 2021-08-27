@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\repos\\truecoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
+    "C:\\Users\\jonat\\Desktop\\TrueCoders\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\repos\\truecoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "C:\\Users\\jonat\\Desktop\\TrueCoders\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\repos\\truecoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\Desktop\\TrueCoders\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "C:\\Users\\jonat\\repos\\truecoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectPath": "C:\\Users\\jonat\\Desktop\\TrueCoders\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\repos\\truecoders\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\Desktop\\TrueCoders\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
